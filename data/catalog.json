@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 864,
+  "total": 865,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -14870,6 +14870,33 @@
         "expertise"
       ],
       "path": "skills/parallel-agents/SKILL.md"
+    },
+    {
+      "id": "patent-prior-art-scout",
+      "name": "patent-prior-art-scout",
+      "description": "Use when a user describes an invention, product idea, or technical mechanism and wants to know if similar patents already exist, understand the prior art landscape, or assess novelty before filing. Triggers: patent search, prior art, invention idea, novelty check, IP analysis, patent scout, patentability.",
+      "category": "business",
+      "tags": [
+        "patent",
+        "prior",
+        "art",
+        "scout"
+      ],
+      "triggers": [
+        "patent",
+        "prior",
+        "art",
+        "scout",
+        "user",
+        "describes",
+        "invention",
+        "product",
+        "idea",
+        "technical",
+        "mechanism",
+        "wants"
+      ],
+      "path": "skills/patent-prior-art-scout/SKILL.md"
     },
     {
       "id": "payment-integration",

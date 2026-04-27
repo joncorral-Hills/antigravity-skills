@@ -5337,6 +5337,15 @@
     "source": "unknown"
   },
   {
+    "id": "patent-prior-art-scout",
+    "path": "skills/patent-prior-art-scout",
+    "category": "uncategorized",
+    "name": "patent-prior-art-scout",
+    "description": "Use when a user describes an invention, product idea, or technical mechanism and wants to know if similar patents already exist, understand the prior art landscape, or assess novelty before filing. Triggers: patent search, prior art, invention idea, novelty check, IP analysis, patent scout, patentability.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "payment-integration",
     "path": "skills/payment-integration",
     "category": "uncategorized",
