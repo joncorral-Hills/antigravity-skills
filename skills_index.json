@@ -4500,6 +4500,15 @@
     "source": "unknown"
   },
   {
+    "id": "lawncare-expert",
+    "path": "skills/lawncare-expert",
+    "category": "uncategorized",
+    "name": "lawncare-expert",
+    "description": "Midwestern lawn care expert specializing in tall fescue, Kentucky bluegrass, and perennial ryegrass.\nUse when: lawn care, grass health, watering schedule, fertilizer, mowing, overseeding, aeration,\nweed control, pre-emergent, post-emergent, grub control, brown patch, lawn calendar, soil test,\nNPK, nitrogen, potassium, tall fescue, bluegrass, ryegrass, cool season grass, Zone 6.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "legacy-modernizer",
     "path": "skills/legacy-modernizer",
     "category": "uncategorized",

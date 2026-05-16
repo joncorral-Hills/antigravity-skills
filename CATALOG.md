@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 865
+Total skills: 866
 
 ## architecture (64)
 
@@ -846,7 +846,7 @@ Triggers: "keyvault secrets rust", "SecretClient rust"... | azure, keyvault, sec
 | `wordpress-penetration-testing` | This skill should be used when the user asks to "pentest WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi... | wordpress, penetration | wordpress, penetration, testing, skill, should, used, user, asks, pentest, sites, scan, vulnerabilities |
 | `xss-html-injection` | This skill should be used when the user asks to "test for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp... | xss, html, injection | xss, html, injection, cross, site, scripting, testing, skill, should, used, user, asks |
 
-## testing (24)
+## testing (25)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -856,6 +856,8 @@ Triggers: "keyvault secrets rust", "SecretClient rust"... | azure, keyvault, sec
 | `conductor-revert` | Git-aware undo by logical work unit (track, phase, or task) | conductor, revert | conductor, revert, git, aware, undo, logical, work, unit, track, phase, task |
 | `debugger` | Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues. | debugger | debugger, debugging, errors, test, failures, unexpected, behavior, proactively, encountering, any, issues |
 | `dependency-upgrade` | Manage major dependency version upgrades with compatibility analysis, staged rollout, and comprehensive testing. Use when upgrading framework versions, updat... | dependency, upgrade | dependency, upgrade, major, version, upgrades, compatibility, analysis, staged, rollout, testing, upgrading, framework |
+| `lawncare-expert` | Midwestern lawn care expert specializing in tall fescue, Kentucky bluegrass, and perennial ryegrass.
+Use when: lawn care, grass health, watering schedule, fe... | lawncare | lawncare, midwestern, lawn, care, specializing, tall, fescue, kentucky, bluegrass, perennial, ryegrass, grass |
 | `pentest-commands` | This skill should be used when the user asks to "run pentest commands", "scan with nmap", "use metasploit exploits", "crack passwords with hydra or john", "s... | pentest, commands | pentest, commands, skill, should, used, user, asks, run, scan, nmap, metasploit, exploits |
 | `performance-testing-review-multi-agent-review` | Use when working with performance testing review multi agent review | performance, multi, agent | performance, multi, agent, testing, review, working |
 | `playwright-skill` | Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check res... | playwright, skill | playwright, skill, complete, browser, automation, auto, detects, dev, servers, writes, clean, test |
